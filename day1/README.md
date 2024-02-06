@@ -40,4 +40,4 @@ _**Commit Changes:**_
 
 Once you've added files to the staging area, commit them using `git commit -m "Commit message"`. This command creates a snapshot of the changes in the repository along with a descriptive message explaining the changes made.
 
-## [Useful video to understand the basics]([https://youtu.be/0chZFIZLR_0](https://youtu.be/e9lnsKot_SQ)https://youtu.be/e9lnsKot_SQ)
+## [Useful video to understand the basics](https://youtu.be/e9lnsKot_SQ)
